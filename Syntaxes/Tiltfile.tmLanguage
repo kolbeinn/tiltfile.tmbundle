@@ -6,6 +6,7 @@
 		<array>
 			<string>Tiltfile</string>
 			<string>tiltfile</string>
+			<string>tilt</string>
 		</array>
 		<key>name</key>
 		<string>Tiltfile</string>
